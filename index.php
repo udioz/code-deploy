@@ -7,4 +7,4 @@ if (empty($_SESSION['some_id'])){
 
 var_dump($_SESSION);
 ?>
-<h3>Version 2</h3>
+<h3>Version 3</h3>
